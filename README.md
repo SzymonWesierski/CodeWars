@@ -1,1 +1,1 @@
-# zdalne
+Katas from codewars
